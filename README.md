@@ -1,0 +1,2 @@
+# customer_segmentation_and_recommendation_system
+Data Science Project
